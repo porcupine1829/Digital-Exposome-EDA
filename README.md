@@ -1,10 +1,8 @@
 # Digital Exposome Dataset Analysis
 
-## 🌍 Environmental Health Impact Assessment
-
 This project presents a comprehensive exploratory data analysis (EDA) of the Digital Exposome dataset, investigating the relationships between environmental pollutants and human physiological responses in real-time.
 
-## 📊 Dataset Overview
+## Dataset
 
 - **Records**: 42,436 observations
 - **Variables**: 12 features (environmental + physiological)
@@ -28,7 +26,7 @@ This project presents a comprehensive exploratory data analysis (EDA) of the Dig
 **Target Variable:**
 - Label (Wellbeing Score: 1-5 scale)
 
-## 📈 Visualizations
+## Visualizations
 
 The analysis includes comprehensive visualizations:
 - **Correlation heatmaps** showing environmental-physiological relationships
@@ -37,7 +35,7 @@ The analysis includes comprehensive visualizations:
 - **Time series analysis** of extreme pollution events
 - **Distribution analysis** of all environmental and physiological variables
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ```python
 # Core Libraries
